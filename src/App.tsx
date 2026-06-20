@@ -18,7 +18,7 @@ export default function App() {
               <GraduationCap size={20} />
             </div>
             <h1 className="text-xl font-bold bg-gradient-to-r from-blue-700 to-indigo-700 bg-clip-text text-transparent">
-              QuizMaster India
+              QuizMaster
             </h1>
           </div>
           <nav className="flex items-center gap-1">

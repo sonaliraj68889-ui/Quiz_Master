@@ -1,5 +1,5 @@
 {
-  "name": "QuizMaster: Inter-School Edition",
+  "name": "QuizMaster",
   "description": "An inter-school quiz competition practice app and question bank tailored for Indian students classes 6 to 12. Covers GK, Science, Current Affairs, Sports, Entertainment, Math, and Reasoning.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
